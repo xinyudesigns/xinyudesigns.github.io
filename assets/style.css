@@ -899,7 +899,7 @@ optgroup {
 }
 
 body {
-    font-family: stevie-sans, a-otf-gothic-bbb-pr6n, '游ゴシック', 'Yu Gothic', '游ゴシック体', YuGothic, 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-family: 'tofinobold', stevie-sans, a-otf-gothic-bbb-pr6n, '游ゴシック', 'Yu Gothic', '游ゴシック体', YuGothic, 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
     font-size: 14px;
     line-height: 1.8;
     display: -webkit-box;
