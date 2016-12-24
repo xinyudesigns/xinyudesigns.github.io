@@ -1469,7 +1469,7 @@ footer.works-single-footer a {
 footer.works-single-footer a:after {
     position: absolute;
     width: 0;
-    height: 1px;
+    height: 2px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
@@ -1586,9 +1586,11 @@ nav.works-single-nav-wrap .item figure:hover:after {
 nav.works-single-nav-wrap .item figure:hover img {
     -webkit-transition: .4s ease all;
     transition: .4s ease all;
+/*
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     transform: scale(1.1);
+*/
     opacity: 0
 }
 
