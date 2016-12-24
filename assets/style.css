@@ -909,7 +909,7 @@ body {
     flex-direction: column;
     width: 100%!important;
     min-height: 100vh;
-    letter-spacing: .07em;
+    letter-spacing: .05em;
     background: #fff;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -993,7 +993,7 @@ header.global-header .upper-nav .left-nav-compornent a:after,
 header.global-header a:after {
     bottom: -4px;
     left: 0;
-    height: 1px;
+    height: 2px;
     content: '';
     background: #333
 }
@@ -1107,7 +1107,7 @@ header.global-header .lower-nav a {
 header.global-header .lower-nav a:after {
     position: absolute;
     width: 0;
-    height: 1px;
+    height: 2px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
@@ -1241,7 +1241,7 @@ header.works-single-header .works-single-header-inner {
 .before-border:before {
     display: inline-block;
     width: 4.16667vw;
-    height: 1px;
+    height: 2px;
     margin: 0 10px;
     content: '';
     -webkit-transform: translateY(-3px);
@@ -1251,8 +1251,8 @@ header.works-single-header .works-single-header-inner {
 }
 
 .home-lead {
-    font-size: 28px;
-    letter-spacing: .07em
+    font-size: 24px;
+    letter-spacing: .05em
 }
 
 .works-archive-wrap a.works-item {
@@ -1633,7 +1633,7 @@ header.about-header span {
 .about-content-wrap .container>* a:after {
     position: absolute;
     width: 0;
-    height: 1px;
+    height: 2px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
