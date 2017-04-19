@@ -899,7 +899,7 @@ optgroup {
 }
 
 body {
-    font-family: 'tofinobold', sans-serif;
+    font-family: 'quicksandregular', sans-serif;
     font-size: 14px;
     line-height: 1.8;
     display: -webkit-box;
@@ -1241,7 +1241,7 @@ header.works-single-header .works-single-header-inner {
 .before-border:before {
     display: inline-block;
     width: 4.16667vw;
-    height: 2px;
+    height: 1px;
     margin: 0 10px;
     content: '';
     -webkit-transform: translateY(-3px);
@@ -1469,7 +1469,7 @@ footer.works-single-footer a {
 footer.works-single-footer a:after {
     position: absolute;
     width: 0;
-    height: 2px;
+    height: 1px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
