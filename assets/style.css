@@ -993,7 +993,7 @@ header.global-header .upper-nav .left-nav-compornent a:after,
 header.global-header a:after {
     bottom: -4px;
     left: 0;
-    height: 2px;
+    height: 1px;
     content: '';
     background: #333
 }
@@ -1107,7 +1107,7 @@ header.global-header .lower-nav a {
 header.global-header .lower-nav a:after {
     position: absolute;
     width: 0;
-    height: 2px;
+    height: 1px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
@@ -1635,7 +1635,7 @@ header.about-header span {
 .about-content-wrap .container>* a:after {
     position: absolute;
     width: 0;
-    height: 2px;
+    height: 1px;
     -webkit-transition: .4s ease;
     transition: .4s ease;
     background: #333
