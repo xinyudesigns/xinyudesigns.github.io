@@ -1,0 +1,14 @@
+---
+layout: page
+title: Styleguide
+permalink: /
+---
+Welcome to the Earth Day 2014 redesign styleguide.
+<br>
+Here you will find some pre-designed elements, graphics and rules to follow to help make sure the redesign of Earth Day 2014 website look and feel consist. 
+<br>
+<br>
+The goal is to make the site super easy to navigate and also add a fun vibe to it, so it will look cool and charismatic.
+<br>
+<br>
+See the Final Redesign <a href="http://xinyudesign.com/earth_day_2014">here</a>.
